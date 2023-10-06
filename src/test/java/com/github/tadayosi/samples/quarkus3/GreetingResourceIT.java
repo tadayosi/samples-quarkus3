@@ -1,4 +1,4 @@
-package com.github.tadayosi.samples;
+package com.github.tadayosi.samples.quarkus3;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
